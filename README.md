@@ -4,5 +4,6 @@
 ### onClick
 ### onSubmit
 
-## API request using axios
+## API request with React using axios
+## Building Lists of Records
 Using unsplash api to fetch images.
